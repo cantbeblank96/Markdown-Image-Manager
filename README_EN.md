@@ -27,7 +27,7 @@ Suggestions are welcome.
 
 Typora is an excellent Markdown editor that supports drag and drop, copy and paste operations, and automatically copies images to your specified directory.
 
-![1559480154722](README_EN\1559480154722.png)
+![1559480154722](README_EN/1559480154722.png)
 
 For example, the one that I use is the last option. It will generate a {filename}.assert folder in the same directory of your markdown file to store the used image.(for example, Trump_is_idiot.md and Trump_is_idiot.assert)
 
