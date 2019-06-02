@@ -17,12 +17,12 @@ image_new_folder: 用来存放file_new.md中引用的图片的文件夹
 首先，从file_source.md中找出所有图片链接；
 然后，根据图片链接，将图片复制到image_new_folder文件夹中；
 接着，从file_source.md复制一份副本file_new.md（如果file_new与file_source一致，则跳过该步）；
-最后，将file_new.md中的图片链接，对应地修改为指向image_new_folder中的图片。
+最后，将file_new.md中的图片链接对应地修改为，指向image_new_folder中的图片。
 """
 
 # 模式选择：
 """
-分三个阶段选择工作模式：
+分6个阶段选择工作模式：
 
 Step 1st -- choose File mode 文件模式：指定某个文件进行处理，输出也是文件
          |
@@ -146,5 +146,11 @@ if __name__ == '__main__':
     # file_new_path = r"C:\Users\29118\Desktop\res\233.md"
     # image_new_folder = r"C:\Users\29118\Desktop\res\233"
     # steward(file_old_path, file_new_path, image_new_folder)
-    main()
-    # __[filename].assert
+    while True:
+        main()
+        input_str = input("continue? yes(1|default)/no(0)")
+        if input_str != "0":
+            continue
+        else:
+            break
+    # top\__[filename].assert
