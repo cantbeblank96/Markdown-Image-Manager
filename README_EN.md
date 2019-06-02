@@ -1,6 +1,6 @@
 # Markdown-Image-Manager
 
-[Chinese version](README.md)
+[中文版](README.md)
 
 让复制markdown文件的同时也带上图片。
 支持批量复制，和路径正则匹配。
@@ -112,31 +112,31 @@ Relative path: abc/pic_[filename]_233 ==> ~/here/abc/res/pic_Markdown_233
 
 Take the folder I used to store my blog as an example:
 
-![1559482186895](README_EN\1559482186895.png)
+![1559482186895](README_EN/1559482186895.png)
 
 Some of the images used in the markdown file are stored in the __{filename}.assert folder in the top folder, and the others are url links.
 
-![1559482246418](README_EN\1559482246418.png)
+![1559482246418](README_EN/1559482246418.png)
 
-![1559482358598](README_EN\1559482358598.png)
+![1559482358598](README_EN/1559482358598.png)
 
 #### 1.Convert it to the default directory format for hexo
 
 Enter 1 to select the Folder mode.
 
-![1559482787434](README_EN\1559482787434.png)
+![1559482787434](README_EN/1559482787434.png)
 
 Enter the path as prompted. Image_new_folder uses regular mode.
 
-![1559484001247](README_EN\1559484001247.png)
+![1559484001247](README_EN/1559484001247.png)
 
 Press the Enter key in the next few steps to select the default mode.
 
-![1559483086948](README_EN\1559483086948.png)
+![1559483086948](README_EN/1559483086948.png)
 
 result:
 
-![1559483115579](README_EN\1559483115579.png)
+![1559483115579](README_EN/1559483115579.png)
 
 perfect！~ ＼( ^▽^ )／ 
 
@@ -147,23 +147,23 @@ Of course, we can！
 
 I first clear the source folder.
 
-![1559483370602](README_EN\1559483370602.png)
+![1559483370602](README_EN/1559483370602.png)
 
 Still use the folder mode.
 
-![1559483412657](README_EN\1559483412657.png)
+![1559483412657](README_EN/1559483412657.png)
 
 Look at the various paths.
 
-![1559483538808](README_EN\1559483538808.png)
+![1559483538808](README_EN/1559483538808.png)
 
 Keep pressing Enter, we get the results:
 
-![1559484026126](README_EN\1559484026126.png)
+![1559484026126](README_EN/1559484026126.png)
 
-![1559484038660](README_EN\1559484038660.png)
+![1559484038660](README_EN/1559484038660.png)
 
-![1559484046862](README_EN\1559484046862.png)
+![1559484046862](README_EN/1559484046862.png)
 
 perfect！~ (/≧▽≦)/
 

@@ -10,7 +10,6 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # 伪造headers信息
 headers_ = {"Upgrade-Insecure-Requests": '1',
-            "Cookie": 'rxx=24l3fk4i2e1.1b8pay31&v=1; _ga=GA1.2.543990751.1541222200; language=%2Czh_CN; logged_in=1; __utmc=189990958; _gid=GA1.2.726038157.1548659079; __utma=189990958.543990751.1541222200.1548742401.1548744779.46; __utmb=189990958.0.10.1548744779; __utmz=189990958.1548744779.46.34.utmcsr=luvwetfun.tumblr.com|utmccn=(referral)|utmcmd=referral|utmcct=/post/106792006367/http-hotshemalegifxxx-tumblr-com; pfg=d5dac2a4d480e6da160b414a806c30074cbd3f06fd2bcde93e86cad49854a264%23%7B%22gdpr_is_acceptable_age%22%3A1%2C%22gdpr_consent_search_history%22%3A-1%2C%22exp%22%3A1580281205%2C%22vc%22%3A%22%22%7D%234823476885; tmgioct=5c4ff9f5c208f60254294960',
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"}
 
 
